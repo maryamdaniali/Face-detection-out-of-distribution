@@ -1,5 +1,7 @@
 # Face-detection-out-of-distribution
-In this experiment, we employ a standard CNN model for face detection and show CNNs are ethnicity- and gender-biased. They struggle with generalizing their understanding to out of distribution ethnic groups and gender.
+In this experiment, we employ a standard CNN model for face detection and show CNNs are ethnicity- and gender-biased. They struggle with generalizing their understanding to out-of-distribution ethnic groups and gender. 
+
+**Intereseted in finding a solution?** Take a look at our [work](https://arxiv.org/abs/2011.11167).
 
 ## Details on the experiment:
 In this experiment, we challenged a standard deep learning CNN model to generalize in the task of face detection out of distribution. 
